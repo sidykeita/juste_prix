@@ -1,0 +1,6 @@
+Dans ce projet guidé, nous allons réaliser un jeu : le fameux "Juste prix" !
+
+Nous allons nous servir de ce projet pour voir ensemble la cohésion des formulaires avec JavaScript
+Dans cette version du "Juste prix", nous générerons un prix aléatoire, et nous calculerons le nombre 
+de coups qu'il faut à un joueur pour retrouver le juste prix. Ainsi, il pourra se confronter à ses amis pour tenter de voir 
+qui retrouve le bon prix avec le moins de coups possibles !

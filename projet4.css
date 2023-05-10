@@ -1,0 +1,38 @@
+html, body {
+  background: #5C258D;
+  background: -webkit-linear-gradient(to right, #4389A2, #5C258D);
+  background: linear-gradient(to right, #4389A2, #5C258D);
+  height: 100%;
+  min-width: 500px;
+  }
+  
+  header {
+    color: #15ffb1;
+    text-align: center;
+    font-size: 3em;
+  }
+
+.text-danger{
+    color: rgb(0, 255, 195);
+  }
+  
+  #instructions {
+    color: white;
+  }
+  
+  .instruction {
+    padding: 15px;
+    margin: 10px 0;
+  }
+  
+  .plus {
+    background-color: #f67280;
+  }
+  
+  .moins {
+    background-color: #ffa372;
+  }
+  
+  .fini {
+    background-color : #0c9463;
+  }
